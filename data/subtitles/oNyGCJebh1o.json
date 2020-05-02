@@ -1,0 +1,1252 @@
+[
+  {
+    "start": "0.439",
+    "dur": "4.42",
+    "text": "hello freak bitches they call this"
+  },
+  {
+    "start": "3.389",
+    "dur": "3.001",
+    "text": "pattern isset e the tendency to find"
+  },
+  {
+    "start": "4.859",
+    "dur": "3.421",
+    "text": "meaningful patterns in both meaningful"
+  },
+  {
+    "start": "6.39",
+    "dur": "3.45",
+    "text": "and meaningless noise and my thought"
+  },
+  {
+    "start": "8.28",
+    "dur": "3",
+    "text": "experiment is imagine you're a hominid"
+  },
+  {
+    "start": "9.84",
+    "dur": "3.209",
+    "text": "on the plains of Africa three-and-a-half"
+  },
+  {
+    "start": "11.28",
+    "dur": "3.6",
+    "text": "million years ago small brain"
+  },
+  {
+    "start": "13.049",
+    "dur": "4.23",
+    "text": "australopithecine your name is Lucy and"
+  },
+  {
+    "start": "14.88",
+    "dur": "4.26",
+    "text": "you hear a rustle in the grass is it a"
+  },
+  {
+    "start": "17.279",
+    "dur": "3.66",
+    "text": "dangerous predator or is it just the"
+  },
+  {
+    "start": "19.14",
+    "dur": "3.18",
+    "text": "wind right so if you assume that the"
+  },
+  {
+    "start": "20.939",
+    "dur": "2.911",
+    "text": "wrestle on the grass is a dangerous"
+  },
+  {
+    "start": "22.32",
+    "dur": "3.03",
+    "text": "predator and it turns out it's just the"
+  },
+  {
+    "start": "23.85",
+    "dur": "3.15",
+    "text": "wind that's a type 1 error false"
+  },
+  {
+    "start": "25.35",
+    "dur": "4.169",
+    "text": "positive you thought a was connected to"
+  },
+  {
+    "start": "27",
+    "dur": "4.619",
+    "text": "B but but no harm you just become"
+  },
+  {
+    "start": "29.519",
+    "dur": "3.24",
+    "text": "skittish and cautious or whatever but if"
+  },
+  {
+    "start": "31.619",
+    "dur": "3.87",
+    "text": "you assume that the rustle in the grass"
+  },
+  {
+    "start": "32.759",
+    "dur": "5.431",
+    "text": "is just the wind and it turns out it's a"
+  },
+  {
+    "start": "35.489",
+    "dur": "4.051",
+    "text": "dangerous predator your lunch just been"
+  },
+  {
+    "start": "38.19",
+    "dur": "2.76",
+    "text": "given a Darwin Award for taking yourself"
+  },
+  {
+    "start": "39.54",
+    "dur": "4.56",
+    "text": "out of the gene pool early before"
+  },
+  {
+    "start": "40.95",
+    "dur": "5.16",
+    "text": "reproducing so in other words it's"
+  },
+  {
+    "start": "44.1",
+    "dur": "3.57",
+    "text": "better to just assume that all things"
+  },
+  {
+    "start": "46.11",
+    "dur": "3.78",
+    "text": "you think are connected all rustles in"
+  },
+  {
+    "start": "47.67",
+    "dur": "4.47",
+    "text": "the grass are dangerous predators and"
+  },
+  {
+    "start": "49.89",
+    "dur": "4.23",
+    "text": "not the wind just in case and there's"
+  },
+  {
+    "start": "52.14",
+    "dur": "3.689",
+    "text": "not there's not a big cost to pay for"
+  },
+  {
+    "start": "54.12",
+    "dur": "3.9",
+    "text": "making a type 1 error false positive"
+  },
+  {
+    "start": "55.829",
+    "dur": "4.53",
+    "text": "there's a higher cost for making a type"
+  },
+  {
+    "start": "58.02",
+    "dur": "4.41",
+    "text": "2 error or false negative so we assume"
+  },
+  {
+    "start": "60.359",
+    "dur": "4.291",
+    "text": "that this is the basis of superstition"
+  },
+  {
+    "start": "62.43",
+    "dur": "3.81",
+    "text": "and magical thinking we just assume that"
+  },
+  {
+    "start": "64.65",
+    "dur": "2.91",
+    "text": "this is connected to that you pull the"
+  },
+  {
+    "start": "66.24",
+    "dur": "4.169",
+    "text": "slot you do this you pull the slot"
+  },
+  {
+    "start": "67.56",
+    "dur": "4.47",
+    "text": "machine you win or whatever and this is"
+  },
+  {
+    "start": "70.409",
+    "dur": "2.941",
+    "text": "what Skinner showed back in the 50s"
+  },
+  {
+    "start": "72.03",
+    "dur": "3.15",
+    "text": "where you just randomly give"
+  },
+  {
+    "start": "73.35",
+    "dur": "3.36",
+    "text": "reinforcements to rats and pigeons and"
+  },
+  {
+    "start": "75.18",
+    "dur": "3.15",
+    "text": "whatever they were doing just before"
+  },
+  {
+    "start": "76.71",
+    "dur": "3.69",
+    "text": "they got rewarded they'll just repeat"
+  },
+  {
+    "start": "78.33",
+    "dur": "5.13",
+    "text": "that behavior even if it's like twirling"
+  },
+  {
+    "start": "80.4",
+    "dur": "5.16",
+    "text": "counterclockwise twice or and that's the"
+  },
+  {
+    "start": "83.46",
+    "dur": "4.11",
+    "text": "basis of superstition it there's nothing"
+  },
+  {
+    "start": "85.56",
+    "dur": "4.169",
+    "text": "wrong with their brains they're just"
+  },
+  {
+    "start": "87.57",
+    "dur": "4.08",
+    "text": "trying to find causal connections"
+  },
+  {
+    "start": "89.729",
+    "dur": "5.401",
+    "text": "between events in the environment and"
+  },
+  {
+    "start": "91.65",
+    "dur": "5.52",
+    "text": "that's the basis of survival so all of"
+  },
+  {
+    "start": "95.13",
+    "dur": "4.47",
+    "text": "us are subject to making those"
+  },
+  {
+    "start": "97.17",
+    "dur": "4.83",
+    "text": "connections some are more gullible than"
+  },
+  {
+    "start": "99.6",
+    "dur": "4.559",
+    "text": "others say or more skeptical but for the"
+  },
+  {
+    "start": "102",
+    "dur": "4.47",
+    "text": "most part all of us can easily be fooled"
+  },
+  {
+    "start": "104.159",
+    "dur": "4.71",
+    "text": "if it's done right that's that's the"
+  },
+  {
+    "start": "106.47",
+    "dur": "4.59",
+    "text": "beauty of good cons good scams is that"
+  },
+  {
+    "start": "108.869",
+    "dur": "4.801",
+    "text": "anybody could fall for them even smart"
+  },
+  {
+    "start": "111.06",
+    "dur": "4.32",
+    "text": "people and if anything smart people are"
+  },
+  {
+    "start": "113.67",
+    "dur": "4.199",
+    "text": "more likely to believe weird things in"
+  },
+  {
+    "start": "115.38",
+    "dur": "3.72",
+    "text": "this sense that once they believe it"
+  },
+  {
+    "start": "117.869",
+    "dur": "3.301",
+    "text": "they think they've drawn a connection"
+  },
+  {
+    "start": "119.1",
+    "dur": "4.229",
+    "text": "they're better at rationalizing the"
+  },
+  {
+    "start": "121.17",
+    "dur": "4.62",
+    "text": "reasons why they believe then say less"
+  },
+  {
+    "start": "123.329",
+    "dur": "4.08",
+    "text": "educated or less intelligent people and"
+  },
+  {
+    "start": "125.79",
+    "dur": "2.939",
+    "text": "so as people like Banacek will tell you"
+  },
+  {
+    "start": "127.409",
+    "dur": "4.951",
+    "text": "there's nothing better than an audience"
+  },
+  {
+    "start": "128.729",
+    "dur": "4.831",
+    "text": "of scientists at MIT oh boy I can really"
+  },
+  {
+    "start": "132.36",
+    "dur": "2.61",
+    "text": "fool them"
+  },
+  {
+    "start": "133.56",
+    "dur": "3.39",
+    "text": "because they think they're so smart I"
+  },
+  {
+    "start": "134.97",
+    "dur": "4.05",
+    "text": "can't be fool to Wow"
+  },
+  {
+    "start": "136.95",
+    "dur": "4.32",
+    "text": "okay he must be doing something really"
+  },
+  {
+    "start": "139.02",
+    "dur": "5.34",
+    "text": "really super psychic because you know"
+  },
+  {
+    "start": "141.27",
+    "dur": "5.19",
+    "text": "I'm super smart but well no because all"
+  },
+  {
+    "start": "144.36",
+    "dur": "3.48",
+    "text": "of our sensory apparatus works the same"
+  },
+  {
+    "start": "146.46",
+    "dur": "4.62",
+    "text": "and magicians know how to manipulate"
+  },
+  {
+    "start": "147.84",
+    "dur": "5.25",
+    "text": "your gaze your attention whatever and"
+  },
+  {
+    "start": "151.08",
+    "dur": "4.26",
+    "text": "how to fool you what made him think this"
+  },
+  {
+    "start": "153.09",
+    "dur": "3.42",
+    "text": "was it was Bigfoot shit they wanna smell"
+  },
+  {
+    "start": "155.34",
+    "dur": "12.36",
+    "text": "like their shit bro"
+  },
+  {
+    "start": "156.51",
+    "dur": "14.07",
+    "text": "smell it smell it agree on what it eats"
+  },
+  {
+    "start": "167.7",
+    "dur": "4.56",
+    "text": "they were so sure food shit they can't"
+  },
+  {
+    "start": "170.58",
+    "dur": "4.5",
+    "text": "agree can't agree on what Bigfoot eats"
+  },
+  {
+    "start": "172.26",
+    "dur": "5.27",
+    "text": "I'm good who the fuck discovered that"
+  },
+  {
+    "start": "175.08",
+    "dur": "6.33",
+    "text": "Bigfoot's yeah we gotta find that dude I"
+  },
+  {
+    "start": "177.53",
+    "dur": "6.19",
+    "text": "met that I had a conversation with him"
+  },
+  {
+    "start": "181.41",
+    "dur": "4.23",
+    "text": "too it's a nice guy he's a teacher okay"
+  },
+  {
+    "start": "183.72",
+    "dur": "7.62",
+    "text": "in a school what did he find a teacher"
+  },
+  {
+    "start": "185.64",
+    "dur": "7.05",
+    "text": "in Oregon found it out in the woods he's"
+  },
+  {
+    "start": "191.34",
+    "dur": "4.26",
+    "text": "like this got to be a Bigfoot yep I'm"
+  },
+  {
+    "start": "192.69",
+    "dur": "5.4",
+    "text": "gonna take it with me I would think big"
+  },
+  {
+    "start": "195.6",
+    "dur": "6.03",
+    "text": "that would lay logs like this big is my"
+  },
+  {
+    "start": "198.09",
+    "dur": "5.19",
+    "text": "thigh just giant you ever see a elephant"
+  },
+  {
+    "start": "201.63",
+    "dur": "7.71",
+    "text": "take shit and you see his asshole"
+  },
+  {
+    "start": "203.28",
+    "dur": "8.07",
+    "text": "holding up and he go good lord just out"
+  },
+  {
+    "start": "209.34",
+    "dur": "3.66",
+    "text": "of there this giant asshole that's what"
+  },
+  {
+    "start": "211.35",
+    "dur": "3.359",
+    "text": "I imagine for Bigfoot do you believe"
+  },
+  {
+    "start": "213",
+    "dur": "3.75",
+    "text": "that there you know some people believe"
+  },
+  {
+    "start": "214.709",
+    "dur": "3.271",
+    "text": "in Bigfoot but they also believe in a"
+  },
+  {
+    "start": "216.75",
+    "dur": "3",
+    "text": "different kind of Bigfoot it's like a"
+  },
+  {
+    "start": "217.98",
+    "dur": "3.81",
+    "text": "different kind of like Christian Church"
+  },
+  {
+    "start": "219.75",
+    "dur": "3.39",
+    "text": "that Lutheran they believe yes we"
+  },
+  {
+    "start": "221.79",
+    "dur": "2.97",
+    "text": "believe in Bigfoot but we believe it's"
+  },
+  {
+    "start": "223.14",
+    "dur": "3.599",
+    "text": "an interdimensional being I've heard"
+  },
+  {
+    "start": "224.76",
+    "dur": "16.5",
+    "text": "that one what do you think the chances"
+  },
+  {
+    "start": "226.739",
+    "dur": "16.711",
+    "text": "of that okay I gotta stop right here bro"
+  },
+  {
+    "start": "241.26",
+    "dur": "5.16",
+    "text": "I'm one-eighth Native American I'm a"
+  },
+  {
+    "start": "243.45",
+    "dur": "3.39",
+    "text": "grandmother sign and those are our"
+  },
+  {
+    "start": "246.42",
+    "dur": "2.55",
+    "text": "people"
+  },
+  {
+    "start": "246.84",
+    "dur": "6.119",
+    "text": "I will have long known of the existence"
+  },
+  {
+    "start": "248.97",
+    "dur": "5.67",
+    "text": "of what we call the OL ma I have a bunch"
+  },
+  {
+    "start": "252.959",
+    "dur": "3.451",
+    "text": "different names for it you know what"
+  },
+  {
+    "start": "254.64",
+    "dur": "4.62",
+    "text": "when it does a new name every time I go"
+  },
+  {
+    "start": "256.41",
+    "dur": "3.979",
+    "text": "up to Oregon or Washington or do a"
+  },
+  {
+    "start": "259.26",
+    "dur": "4.129",
+    "text": "seminar"
+  },
+  {
+    "start": "260.389",
+    "dur": "5.611",
+    "text": "the guys by show of hands who believes"
+  },
+  {
+    "start": "263.389",
+    "dur": "7.02",
+    "text": "in Bigfoot and most of them do most of"
+  },
+  {
+    "start": "266",
+    "dur": "5.759",
+    "text": "them do yeah we've heard stories you"
+  },
+  {
+    "start": "270.409",
+    "dur": "3.211",
+    "text": "know I believed in it for the longest"
+  },
+  {
+    "start": "271.759",
+    "dur": "3.991",
+    "text": "time and I don't disbelieve in it today"
+  },
+  {
+    "start": "273.62",
+    "dur": "4.349",
+    "text": "I don't disbelieve in it but that's one"
+  },
+  {
+    "start": "275.75",
+    "dur": "4.949",
+    "text": "you can make fun of but I if they found"
+  },
+  {
+    "start": "277.969",
+    "dur": "3.961",
+    "text": "Bigfoot I wouldn't be like oh shit"
+  },
+  {
+    "start": "280.699",
+    "dur": "3.301",
+    "text": "that's real"
+  },
+  {
+    "start": "281.93",
+    "dur": "3.84",
+    "text": "I definitely don't disbelieve in it and"
+  },
+  {
+    "start": "284",
+    "dur": "4.229",
+    "text": "you know what and I'll just say it I"
+  },
+  {
+    "start": "285.77",
+    "dur": "4.32",
+    "text": "think maybe he is interdimensional you"
+  },
+  {
+    "start": "288.229",
+    "dur": "7.141",
+    "text": "know and I mean that's how that's my gut"
+  },
+  {
+    "start": "290.09",
+    "dur": "7.169",
+    "text": "feeling it's ridiculous the things that"
+  },
+  {
+    "start": "295.37",
+    "dur": "3.69",
+    "text": "are going on that are getting covered up"
+  },
+  {
+    "start": "297.259",
+    "dur": "3.301",
+    "text": "and nobody's talking about like in the"
+  },
+  {
+    "start": "299.06",
+    "dur": "3.359",
+    "text": "film I don't know if you saw that drug"
+  },
+  {
+    "start": "300.56",
+    "dur": "4.05",
+    "text": "that was made in the United States it"
+  },
+  {
+    "start": "302.419",
+    "dur": "4.081",
+    "text": "was tainted with AIDS she it was tainted"
+  },
+  {
+    "start": "304.61",
+    "dur": "3.48",
+    "text": "with the AIDS virus and they said you"
+  },
+  {
+    "start": "306.5",
+    "dur": "6.36",
+    "text": "know what we can't lose this big batch"
+  },
+  {
+    "start": "308.09",
+    "dur": "6.21",
+    "text": "of drugs let's send it to France I don't"
+  },
+  {
+    "start": "312.86",
+    "dur": "5.79",
+    "text": "understand that though how does the AIDS"
+  },
+  {
+    "start": "314.3",
+    "dur": "7.859",
+    "text": "virus get in this what is the AIDS virus"
+  },
+  {
+    "start": "318.65",
+    "dur": "5.069",
+    "text": "you're talking about HIV yeah and I have"
+  },
+  {
+    "start": "322.159",
+    "dur": "4.171",
+    "text": "no idea but that's what the news report"
+  },
+  {
+    "start": "323.719",
+    "dur": "5.16",
+    "text": "says that news report was all grainy no"
+  },
+  {
+    "start": "326.33",
+    "dur": "4.559",
+    "text": "in 1985 they might not know what the"
+  },
+  {
+    "start": "328.879",
+    "dur": "3.75",
+    "text": "fuck they were talking about no it would"
+  },
+  {
+    "start": "330.889",
+    "dur": "3.06",
+    "text": "definitely was something that was a head"
+  },
+  {
+    "start": "332.629",
+    "dur": "3.21",
+    "text": "scratcher and I actually have a guy"
+  },
+  {
+    "start": "333.949",
+    "dur": "4.351",
+    "text": "there's a guy that works out at marks"
+  },
+  {
+    "start": "335.839",
+    "dur": "4.23",
+    "text": "gym just got his PhD and he was gonna go"
+  },
+  {
+    "start": "338.3",
+    "dur": "3.63",
+    "text": "work for the company bear that was a"
+  },
+  {
+    "start": "340.069",
+    "dur": "3.301",
+    "text": "company that sold they make Bayer"
+  },
+  {
+    "start": "341.93",
+    "dur": "2.88",
+    "text": "Aspirin everything that's to come that"
+  },
+  {
+    "start": "343.37",
+    "dur": "3.12",
+    "text": "did it and I was one of the things he"
+  },
+  {
+    "start": "344.81",
+    "dur": "2.699",
+    "text": "was he was talking about I don't know if"
+  },
+  {
+    "start": "346.49",
+    "dur": "3.12",
+    "text": "I want to work for a company like that"
+  },
+  {
+    "start": "347.509",
+    "dur": "6.09",
+    "text": "yeah we need to Snopes that though"
+  },
+  {
+    "start": "349.61",
+    "dur": "5.01",
+    "text": "Snopes that actually actually yes we we"
+  },
+  {
+    "start": "353.599",
+    "dur": "6.18",
+    "text": "have a big team"
+  },
+  {
+    "start": "354.62",
+    "dur": "7.62",
+    "text": "taste taste a few of those documentaries"
+  },
+  {
+    "start": "359.779",
+    "dur": "3.57",
+    "text": "we have look at this we have a fact"
+  },
+  {
+    "start": "362.24",
+    "dur": "2.88",
+    "text": "check everything make that a little"
+  },
+  {
+    "start": "363.349",
+    "dur": "3.841",
+    "text": "larger please here goes"
+  },
+  {
+    "start": "365.12",
+    "dur": "3.84",
+    "text": "recently unearthed documents show that"
+  },
+  {
+    "start": "367.19",
+    "dur": "3.479",
+    "text": "the drug company Bayer sold millions of"
+  },
+  {
+    "start": "368.96",
+    "dur": "4.579",
+    "text": "dollars worth of injectable blood"
+  },
+  {
+    "start": "370.669",
+    "dur": "5.581",
+    "text": "clotting medicine factor eight"
+  },
+  {
+    "start": "373.539",
+    "dur": "4.481",
+    "text": "concentrate intended for hemophiliacs to"
+  },
+  {
+    "start": "376.25",
+    "dur": "3.93",
+    "text": "Asian Latin American and some European"
+  },
+  {
+    "start": "378.02",
+    "dur": "4.35",
+    "text": "countries in the mid 1980s although they"
+  },
+  {
+    "start": "380.18",
+    "dur": "3.9",
+    "text": "knew it was tainted with AIDS"
+  },
+  {
+    "start": "382.37",
+    "dur": "2.88",
+    "text": "see that's one I understand like how"
+  },
+  {
+    "start": "384.08",
+    "dur": "3.86",
+    "text": "does something hate and AIDS go together"
+  },
+  {
+    "start": "385.25",
+    "dur": "2.69",
+    "text": "that makes sense"
+  },
+  {
+    "start": "388.479",
+    "dur": "4.331",
+    "text": "this article is ten years ago"
+  },
+  {
+    "start": "391.46",
+    "dur": "3.12",
+    "text": "it says the company stopped selling the"
+  },
+  {
+    "start": "392.81",
+    "dur": "3.329",
+    "text": "drug in the United States in 1984 but"
+  },
+  {
+    "start": "394.58",
+    "dur": "3.299",
+    "text": "continued to sell it overseas for an"
+  },
+  {
+    "start": "396.139",
+    "dur": "4.411",
+    "text": "additional year the medicine was made"
+  },
+  {
+    "start": "397.879",
+    "dur": "5.22",
+    "text": "using combined oh okay"
+  },
+  {
+    "start": "400.55",
+    "dur": "4.739",
+    "text": "plasma from large numbers of donors and"
+  },
+  {
+    "start": "403.099",
+    "dur": "4.44",
+    "text": "at the time there was no screening test"
+  },
+  {
+    "start": "405.289",
+    "dur": "4.021",
+    "text": "for eight for the AIDS virus so a tiny"
+  },
+  {
+    "start": "407.539",
+    "dur": "4.38",
+    "text": "number of donors with AIDS could"
+  },
+  {
+    "start": "409.31",
+    "dur": "7.139",
+    "text": "inadvertently contaminate a large batch"
+  },
+  {
+    "start": "411.919",
+    "dur": "6.571",
+    "text": "whoa they continued to sell the medicine"
+  },
+  {
+    "start": "416.449",
+    "dur": "4.231",
+    "text": "overseas in an attempt to avoid being"
+  },
+  {
+    "start": "418.49",
+    "dur": "3.72",
+    "text": "left with a large stock of a drug that"
+  },
+  {
+    "start": "420.68",
+    "dur": "3.359",
+    "text": "was no longer marketable in the United"
+  },
+  {
+    "start": "422.21",
+    "dur": "4.709",
+    "text": "States I have been so obsessed with this"
+  },
+  {
+    "start": "424.039",
+    "dur": "4.831",
+    "text": "lately like this and I know that I've"
+  },
+  {
+    "start": "426.919",
+    "dur": "3.391",
+    "text": "like probably we've talked about this"
+  },
+  {
+    "start": "428.87",
+    "dur": "2.88",
+    "text": "before and I talked about people"
+  },
+  {
+    "start": "430.31",
+    "dur": "5.81",
+    "text": "probably get sick of me talking about it"
+  },
+  {
+    "start": "431.75",
+    "dur": "6.78",
+    "text": "but this concept of stressing your body"
+  },
+  {
+    "start": "436.12",
+    "dur": "3.94",
+    "text": "stressing exercise most people think"
+  },
+  {
+    "start": "438.53",
+    "dur": "3.62",
+    "text": "exercise is good because the exercise"
+  },
+  {
+    "start": "440.06",
+    "dur": "4.169",
+    "text": "itself is good no the extra say this"
+  },
+  {
+    "start": "442.15",
+    "dur": "4.109",
+    "text": "exercise itself is not good it's"
+  },
+  {
+    "start": "444.229",
+    "dur": "5.4",
+    "text": "actually very stressful on your body"
+  },
+  {
+    "start": "446.259",
+    "dur": "7.291",
+    "text": "what's good is the stress response the"
+  },
+  {
+    "start": "449.629",
+    "dur": "7.201",
+    "text": "body we've got a hardwired genetic"
+  },
+  {
+    "start": "453.55",
+    "dur": "7.179",
+    "text": "program that is conserved in plants"
+  },
+  {
+    "start": "456.83",
+    "dur": "6.989",
+    "text": "insects bacteria you know primates"
+  },
+  {
+    "start": "460.729",
+    "dur": "5.731",
+    "text": "humans you know where we're all we all"
+  },
+  {
+    "start": "463.819",
+    "dur": "5.371",
+    "text": "have this response to stress and that"
+  },
+  {
+    "start": "466.46",
+    "dur": "4.679",
+    "text": "response is to try to survive I need to"
+  },
+  {
+    "start": "469.19",
+    "dur": "2.37",
+    "text": "you know I need to stay alive pass on my"
+  },
+  {
+    "start": "471.139",
+    "dur": "2.131",
+    "text": "genes"
+  },
+  {
+    "start": "471.56",
+    "dur": "5.159",
+    "text": "obviously the stress response is much"
+  },
+  {
+    "start": "473.27",
+    "dur": "6.139",
+    "text": "stronger younger when you're younger or"
+  },
+  {
+    "start": "476.719",
+    "dur": "4.95",
+    "text": "the earlier in life because your body"
+  },
+  {
+    "start": "479.409",
+    "dur": "4.091",
+    "text": "knows your new hat you're not old enough"
+  },
+  {
+    "start": "481.669",
+    "dur": "2.731",
+    "text": "you know to reproduce for whatever you"
+  },
+  {
+    "start": "483.5",
+    "dur": "4.319",
+    "text": "know hormones and things like that"
+  },
+  {
+    "start": "484.4",
+    "dur": "6.18",
+    "text": "they're not being produced but so the"
+  },
+  {
+    "start": "487.819",
+    "dur": "5.25",
+    "text": "stress response which is like exercise"
+  },
+  {
+    "start": "490.58",
+    "dur": "4.23",
+    "text": "causes stress thermal stress like heat"
+  },
+  {
+    "start": "493.069",
+    "dur": "4.951",
+    "text": "cold and then there's all these like"
+  },
+  {
+    "start": "494.81",
+    "dur": "5.43",
+    "text": "compounds and plants that are stressful"
+  },
+  {
+    "start": "498.02",
+    "dur": "4.829",
+    "text": "to us that can induce this but it's"
+  },
+  {
+    "start": "500.24",
+    "dur": "4.35",
+    "text": "almost like the brain is preparing for"
+  },
+  {
+    "start": "502.849",
+    "dur": "4.171",
+    "text": "the next time it's going to encounter"
+  },
+  {
+    "start": "504.59",
+    "dur": "4.02",
+    "text": "stress it's like okay this is war I know"
+  },
+  {
+    "start": "507.02",
+    "dur": "3.09",
+    "text": "how to gather up the troops oh I got to"
+  },
+  {
+    "start": "508.61",
+    "dur": "2.94",
+    "text": "get this army we got to assemble this"
+  },
+  {
+    "start": "510.11",
+    "dur": "2.94",
+    "text": "army because that stress is gonna happen"
+  },
+  {
+    "start": "511.55",
+    "dur": "3.479",
+    "text": "again I got to be ready for war"
+  },
+  {
+    "start": "513.05",
+    "dur": "3.779",
+    "text": "so it kind of makes sense that you're"
+  },
+  {
+    "start": "515.029",
+    "dur": "3.661",
+    "text": "you know you're going to have a very"
+  },
+  {
+    "start": "516.829",
+    "dur": "3.511",
+    "text": "profound and positive effect in your"
+  },
+  {
+    "start": "518.69",
+    "dur": "6.21",
+    "text": "brain and also in other parts of the"
+  },
+  {
+    "start": "520.34",
+    "dur": "6.48",
+    "text": "I'm you know the exercise itself it's"
+  },
+  {
+    "start": "524.9",
+    "dur": "4.44",
+    "text": "funny because a lot of people do it to"
+  },
+  {
+    "start": "526.82",
+    "dur": "4.91",
+    "text": "lose weight or to mostly to lose weight"
+  },
+  {
+    "start": "529.34",
+    "dur": "5.16",
+    "text": "or you know become sexually attractive"
+  },
+  {
+    "start": "531.73",
+    "dur": "4.51",
+    "text": "muscle mass which has other very"
+  },
+  {
+    "start": "534.5",
+    "dur": "3.66",
+    "text": "important physiological you know effects"
+  },
+  {
+    "start": "536.24",
+    "dur": "5.34",
+    "text": "but people do it because they want to"
+  },
+  {
+    "start": "538.16",
+    "dur": "4.62",
+    "text": "look good and honestly a lot of there"
+  },
+  {
+    "start": "541.58",
+    "dur": "2.76",
+    "text": "are a lot of people that say well"
+  },
+  {
+    "start": "542.78",
+    "dur": "2.82",
+    "text": "exercise doesn't really play an"
+  },
+  {
+    "start": "544.34",
+    "dur": "2.52",
+    "text": "important role in losing weights"
+  },
+  {
+    "start": "545.6",
+    "dur": "3.39",
+    "text": "nutrition you know what they're right"
+  },
+  {
+    "start": "546.86",
+    "dur": "5.73",
+    "text": "but exercise has a very important role"
+  },
+  {
+    "start": "548.99",
+    "dur": "6.6",
+    "text": "and that role is to to cause your body"
+  },
+  {
+    "start": "552.59",
+    "dur": "5.28",
+    "text": "stress so that you activate all these"
+  },
+  {
+    "start": "555.59",
+    "dur": "3.93",
+    "text": "really good and awesome genes that are"
+  },
+  {
+    "start": "557.87",
+    "dur": "4.26",
+    "text": "helping you deal with stress and guess"
+  },
+  {
+    "start": "559.52",
+    "dur": "5.07",
+    "text": "what stress is happening right now every"
+  },
+  {
+    "start": "562.13",
+    "dur": "4.11",
+    "text": "time you breathe in oxygen you're making"
+  },
+  {
+    "start": "564.59",
+    "dur": "5.46",
+    "text": "stress you're you're generating"
+  },
+  {
+    "start": "566.24",
+    "dur": "6.56",
+    "text": "byproducts that are very dangerous so so"
+  },
+  {
+    "start": "570.05",
+    "dur": "2.75",
+    "text": "exercise is good"
+  },
+  {
+    "start": "575.47",
+    "dur": "6.279",
+    "text": "[Music]"
+  }
+]
