@@ -29,7 +29,7 @@ class App extends LitElement {
       ></ptu-search-input>
       <ptu-search-results
         id="results"
-        @request-chunk="${this._onRequestChunk}"
+        @request-subtitles="${this._onRequestSubtitles}"
       ></ptu-search-results>
     `;
   }
@@ -39,11 +39,11 @@ class App extends LitElement {
   }
 
   _onSearch(e) {
-    this.getById('github').search(e.detail, results => this.getById('results').show(results));
+    this.getById('github').search(e.detail, results => this.getById('results').show(results, e.detail));
   }
 
-  _onRequestChunk(e) {
-    this.getById('github').getChunk(e.detail.name, e.detail.cb);
+  _onRequestSubtitles(e) {
+    this.getById('github').getSubtitles(e.detail.name, e.detail.cb);
   }
 
 }
