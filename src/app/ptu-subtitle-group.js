@@ -5,12 +5,14 @@ class SubtitleGroup extends LitElement {
   static get properties() {
     return {
       group: Array,
+      videoId: String,
     };
   }
 
   constructor() {
     super();
-    this.group = Object;
+    this.group = [];
+    this.videoId = null;
   }
 
   render() {
@@ -32,8 +34,9 @@ class SubtitleGroup extends LitElement {
       return null;
     }
     return group.subtitles.map(subtitle => {
+      const url = `https://youtu.be/${this.videoId}?t=${parseInt(subtitle.start)}`;
       return html`
-        <div>${subtitle.text}</div>
+        <div>${subtitle.text} <a href="${url}">(${subtitle.start})</a></div>
       `;
     });
   }

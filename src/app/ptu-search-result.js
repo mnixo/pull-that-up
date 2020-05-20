@@ -8,6 +8,7 @@ class SearchResult extends LitElement {
       term: String,
       _subtitles: Array,
       _subtitleGroups: Array,
+      _videoId: String,
     };
   }
 
@@ -17,6 +18,7 @@ class SearchResult extends LitElement {
     this.term = null;
     this._subtitles = [];
     this._subtitleGroups = [];
+    this._videoId = null;
   }
 
   render() {
@@ -37,6 +39,7 @@ class SearchResult extends LitElement {
         <div>${this.result.path}</div>
         <ptu-subtitle-groups
           .groups="${this._subtitleGroups}"
+          .videoId="${this._videoId}"
         ></ptu-subtitle-groups>
       </paper-card>
     `;
@@ -45,6 +48,7 @@ class SearchResult extends LitElement {
   updated(changedProperties) {
     super.updated(changedProperties);
     if (changedProperties.has('result')) {
+      this._videoId = this.result.name.replace('.json', '');
       this.dispatchEvent(new CustomEvent('request-subtitles', {
         detail: {
           name: this.result.name,
@@ -60,12 +64,6 @@ class SearchResult extends LitElement {
     this._subtitles = subtitles;
     const matchingSubtitles = this._getMatchingSubtitles(this.term, this._subtitles);
     const results = this._getResults(matchingSubtitles);
-    console.log({
-      subtitles,
-      term: this.term,
-      matchingSubtitles,
-      results,
-    });
     this._subtitleGroups = results;
   }
 

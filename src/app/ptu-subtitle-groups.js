@@ -5,12 +5,14 @@ class SubtitleGroups extends LitElement {
   static get properties() {
     return {
       groups: Array,
+      videoId: String,
     };
   }
 
   constructor() {
     super();
     this.groups = [];
+    this.videoId = null;
   }
 
   render() {
@@ -29,6 +31,7 @@ class SubtitleGroups extends LitElement {
       return html`
         <ptu-subtitle-group
           .group="${group}"
+          .videoId="${this.videoId}"
         ></ptu-subtitle-group>
       `;
     });
