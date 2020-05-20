@@ -21,11 +21,24 @@ class SearchResult extends LitElement {
 
   render() {
     return html`
-      <div>${this.result.name}</div>
-      <div>${this.result.path}</div>
-      <ptu-subtitle-groups
-        .groups="${this._subtitleGroups}"
-      ></ptu-subtitle-groups>
+      <style>
+        paper-card {
+          width: 100%;
+          padding: 1em;
+        }
+        ptu-subtitle-groups {
+          display: flex;
+          flex-direction: column;
+          margin-top: 1em;
+        }
+      </style>
+      <paper-card>
+        <div>${this.result.name}</div>
+        <div>${this.result.path}</div>
+        <ptu-subtitle-groups
+          .groups="${this._subtitleGroups}"
+        ></ptu-subtitle-groups>
+      </paper-card>
     `;
   }
 

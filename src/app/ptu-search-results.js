@@ -17,6 +17,11 @@ class SearchResults extends LitElement {
 
   render() {
     return html`
+      <style>
+        ptu-search-result:not(:last-child) {
+          margin-bottom: 1em;
+        }
+      </style>
       ${this._renderResults(this._results)}
     `;
   }

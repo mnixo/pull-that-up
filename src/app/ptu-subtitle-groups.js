@@ -15,6 +15,11 @@ class SubtitleGroups extends LitElement {
 
   render() {
     return html`
+      <style>
+        ptu-subtitle-group:not(:last-child) {
+          margin-bottom: 1em;
+        }
+      </style>
       ${this._renderGroups(this.groups)}
     `;
   }

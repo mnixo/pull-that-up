@@ -1,5 +1,6 @@
 import { LitElement, html } from 'lit-element';
 import '@polymer/paper-button/paper-button';
+import '@polymer/paper-card/paper-card';
 import '@polymer/paper-input/paper-input';
 import '@polymer/paper-styles/paper-styles';
 import './ptu-github-api';
@@ -23,6 +24,17 @@ class App extends LitElement {
 
   render() {
     return html`
+      <style>
+        :host,
+        ptu-search-results {
+          display: flex;
+          flex-direction: column;
+        }
+        ptu-search-input,
+        ptu-search-results {
+          margin: 1em 1em 0 1em;
+        }
+      </style>
       <ptu-github-api
         id="github"
       ></ptu-github-api>

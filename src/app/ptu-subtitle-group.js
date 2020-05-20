@@ -15,7 +15,15 @@ class SubtitleGroup extends LitElement {
 
   render() {
     return html`
-      ${this._renderSubtitles(this.group)} 
+      <style>
+        paper-card {
+          width: 100%;
+          padding: 1em;
+        }
+      </style>
+      <paper-card>
+        ${this._renderSubtitles(this.group)}
+      </paper-card> 
     `;
   }
 
