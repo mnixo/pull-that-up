@@ -6,6 +6,8 @@ import './ptu-github-api';
 import './ptu-search-input';
 import './ptu-search-result';
 import './ptu-search-results';
+import './ptu-subtitle-group';
+import './ptu-subtitle-groups';
 
 class App extends LitElement {
 

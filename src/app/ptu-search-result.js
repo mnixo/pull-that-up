@@ -7,6 +7,7 @@ class SearchResult extends LitElement {
       result: Object,
       term: String,
       _subtitles: Array,
+      _subtitleGroups: Array,
     };
   }
 
@@ -15,12 +16,16 @@ class SearchResult extends LitElement {
     this.result = null;
     this.term = null;
     this._subtitles = [];
+    this._subtitleGroups = [];
   }
 
   render() {
     return html`
       <div>${this.result.name}</div>
       <div>${this.result.path}</div>
+      <ptu-subtitle-groups
+        .groups="${this._subtitleGroups}"
+      ></ptu-subtitle-groups>
     `;
   }
 
@@ -48,6 +53,7 @@ class SearchResult extends LitElement {
       matchingSubtitles,
       results,
     });
+    this._subtitleGroups = results;
   }
 
   _getResults(matchingSubtitles) {
@@ -83,14 +89,12 @@ class SearchResult extends LitElement {
     subtitles.forEach(s => {
       let score = 0;
       termWords.forEach(w => {
-        score += this._countOccurrences(s.text, w);
+        score += this._countOccurrences(s.text.toLowerCase(), w);
       });
       if (score) {
-        matchingSubtitles.push({
-          subtitle: s,
-          score,
-          index: subtitles.indexOf(s),
-        });
+        s.index = subtitles.indexOf(s);
+        s.score = score;
+        matchingSubtitles.push(s);
       }
     });
     return matchingSubtitles;
@@ -98,6 +102,7 @@ class SearchResult extends LitElement {
 
   _countOccurrences(string, word) {
     return string.split(' ').filter(w => w === word).length;
+    // return string.split(word).length - 1;
   }
 
 }
